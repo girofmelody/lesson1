@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a0d0364-1125-4172-b44b-a8e5098fec5a" name="Changes" comment="lesson2">
-      <change afterPath="$PROJECT_DIR$/../Python_HW/lesson2/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_HW/lesson3/lesson_3_task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_HW/lesson3/user.py" afterDir="false" />
+    <list default="true" id="1a0d0364-1125-4172-b44b-a8e5098fec5a" name="Changes" comment="lesson4">
+      <change afterPath="$PROJECT_DIR$/.idea/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_lesson/lesson05_task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/not-main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1_task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/lesson_1_task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1_task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/lesson_1_task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1_task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/lesson_1_task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1_task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/lesson_1_task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_1_task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/lesson_1_task_5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,11 +34,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../Python_HW" value="lesson1" />
+        <entry key="$PROJECT_DIR$/../Python_HW" value="main" />
         <entry key="$PROJECT_DIR$" value="lesson1" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Python_HW" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -39,7 +49,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/girofmelody/lesson1.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/girofmelody/lesson1&quot;,
     &quot;accountId&quot;: &quot;637a74a0-b6a5-4429-9522-410743505bab&quot;
   }
 }</component>
@@ -56,6 +66,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.lesson05_task1.executor": "Run",
+    "Python.lesson05_task2.executor": "Run",
+    "Python.lesson05_task3.executor": "Run",
+    "Python.lesson05_task4.executor": "Run",
     "Python.lesson_1_task_1.executor": "Run",
     "Python.lesson_1_task_2.executor": "Run",
     "Python.lesson_1_task_4.executor": "Run",
@@ -69,11 +83,13 @@
     "Python.lesson_2_task_7.executor": "Run",
     "Python.lesson_3_task_1.executor": "Run",
     "Python.lesson_3_task_12.executor": "Run",
+    "Python.not-main.executor": "Run",
     "Python.product.executor": "Run",
     "Python.user.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "lesson3",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/elenaponomarenko/skypro1/01_lesson/lesson1"
   }
 }]]></component>
@@ -129,5 +145,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lesson2" />
     <option name="LAST_COMMIT_MESSAGE" value="lesson2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
